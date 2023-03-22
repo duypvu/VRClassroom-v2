@@ -230,7 +230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77f4f051dc2c8454e827cd3352ecb921, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _tip: {fileID: 0}
+  _tip: {fileID: 3283250930037176145}
   _penSize: 5
 --- !u!54 &4698675527579259469
 Rigidbody:
